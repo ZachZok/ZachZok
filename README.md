@@ -1,4 +1,4 @@
-<h1 align="center">Zok's here! <img src="https://wiki.gbl.gg/images/5/57/AUA-IMP-S-RED.png"></h1>
+<h1 align="center">Zok's here! <img src="https://cdn.discordapp.com/attachments/800117040156377129/1210279129669173289/amomog_github.png"></h1>
 
 <h4 align='center'>
   Roranj enjoyer | shitpost lover
