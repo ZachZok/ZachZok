@@ -1,7 +1,7 @@
 <h1 align="center">Zok's here! <img src="https://wiki.gbl.gg/images/5/57/AUA-IMP-S-RED.png"></h1>
 
 <h4 align='center'>
-  Roranj enjoyer | shitpost loverr
+  Roranj enjoyer | shitpost lover
 </h4>
 
 ---------------------------------------
