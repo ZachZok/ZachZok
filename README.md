@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://cdn.discordapp.com/emojis/1128560922139574312.gif?size=96"> Zok's here! <img src="https://cdn.discordapp.com/attachments/800117040156377129/1210279129669173289/amomog_github.png?ex=65e9fb46&is=65d78646&hm=9368e27609ee288ded61cfd7f8433c9c7cd8b4a025972a885440d8da4442f739&"></h1>
+<h1 align="center"><img src="https://cdn.discordapp.com/emojis/1128560922139574312.gif?size=96"> Zok's here! <img src="https://cdn.discordapp.com/attachments/800117040156377129/1210281877156536381/amogus_sus_sus_sus.png?ex=65e9fdd5&is=65d788d5&hm=a0b475d73e08227e27066a4d4b16ef78b8a7a37c2b4751fe23b9c12fe468b244&"></h1>
 
 <h4 align='center'>
   Roranj <3 | shitpost lover
