@@ -23,4 +23,4 @@
 20°50'55.6"N 71°05'02.6"E
 
 
-<h3><img src="https://cdn.discordapp.com/attachments/469153042537644064/1210328308747739196/Jhin.png?ex=65ea2913&is=65d7b413&hm=e93e05270839d47900095be8ecb7cc10e5238e48eeecf17b47882eae846caa4c&"></img></h3>
+<h3 align="center"><img src="https://cdn.discordapp.com/attachments/469153042537644064/1210328308747739196/Jhin.png?ex=65ea2913&is=65d7b413&hm=e93e05270839d47900095be8ecb7cc10e5238e48eeecf17b47882eae846caa4c&"></img></h3>
