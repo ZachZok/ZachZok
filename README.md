@@ -23,4 +23,4 @@
 20°50'55.6"N 71°05'02.6"E
 
 
-<h3 align="center"><img src="https://tenor.com/view/jhin-khada-jhin-league-of-legends-video-games-handsome-gif-25820557"></img></h3>
+<h3 align="center"><img src="https://media1.tenor.com/m/I5K4et0MpQ4AAAAd/jhin-khada-jhin.gif"></img></h3>
