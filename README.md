@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://cdn.discordapp.com/emojis/1128560922139574312.gif?size=96"> Zok's here!</h1>
+<h1 align="center"><img src="https://cdn.discordapp.com/emojis/1128560922139574312.gif?size=96"> Dak's here!</h1>
 
 <h4 align='center'>
  shitpost enjoyer
