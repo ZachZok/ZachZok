@@ -8,7 +8,7 @@
 
 ### About Me:
 
-`💻` I'm a student at `Montebello`. I love <b>coding</b>, even tho I'm not very good at it, I'm trying my best to get better :D
+`💻` I'm a student at `Lille university`. I love <b>coding</b>, even tho I'm not very good at it, I'm trying my best to get better :D
 
 `👾` I always play video games, I had a good run on [osu!](https://osu.ppy.sh/users/13080423), but for now I'm playing a lot of `league` with my friends :D 
 
@@ -16,7 +16,7 @@
 
 ### Things I use:
 
-[![](https://skillicons.dev/icons?i=ps,py,unity)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=ps,ae,pr,py,unity,)](https://skillicons.dev)
 
 ### My Exact Location:
 
