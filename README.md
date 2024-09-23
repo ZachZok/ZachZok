@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://cdn.discordapp.com/emojis/1128560922139574312.gif?size=96"> Zok's here! <img src="https://cdn.discordapp.com/attachments/800117040156377129/1210281877156536381/amogus_sus_sus_sus.png?ex=65e9fdd5&is=65d788d5&hm=a0b475d73e08227e27066a4d4b16ef78b8a7a37c2b4751fe23b9c12fe468b244&"></h1>
 
 <h4 align='center'>
-  Roranj <3 | shitpost lover
+ shitpost lover
 </h4>
 
 ---------------------------------------
