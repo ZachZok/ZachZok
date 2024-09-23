@@ -1,14 +1,14 @@
 <h1 align="center"><img src="https://cdn.discordapp.com/emojis/1128560922139574312.gif?size=96"> Zok's here!</h1>
 
 <h4 align='center'>
- shitpost lover
+ shitpost enjoyer
 </h4>
 
 ---------------------------------------
 
 ### About Me:
 
-`💻` I'm a student at `Lille university`. I love <b>coding</b>, even tho I'm not very good at it, I'm trying my best to get better :D
+`💻` I'm a student at `Lille's science university`. I love <b>coding</b>, even tho I'm not very good at it, I'm trying my best to get better :D
 
 `👾` I always play video games, I had a good run on [osu!](https://osu.ppy.sh/users/13080423), but for now I'm playing a lot of `league` with my friends :D 
 
